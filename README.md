@@ -71,7 +71,7 @@ kullanım:
 |Kullanıcı adı|Şifre |
 | ------------- | ---- |
 |ardatdev|artadosearch1milyonolcak|
-|Arnolxu|pythonIsBetterThanQoLang|
+|Arnolxu|QoLangIsBetterThanPython|
 |06melihgokcek|123456|
 
 Kod:
