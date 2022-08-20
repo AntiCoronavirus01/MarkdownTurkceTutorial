@@ -23,11 +23,11 @@ anlamanızı kolaylaştırmak için söylüyeyim markdown aynı discord un mesaj
 ---
 #### **Link gösterme**
 Kod:
->\[Google a gidiyorsunuz](www.google.com "valla tıklarsanız yolluyoruz")
+>\[Google a gidiyorsunuz](https://www.google.com "valla tıklarsanız yolluyoruz")
 
 Sonuç:
 
-[Google a gidiyorsunuz](www.google.com "valla tıklarsanız yolluyoruz")
+[Google a gidiyorsunuz](https://www.google.com "valla tıklarsanız yolluyoruz")
 
 ---
 
